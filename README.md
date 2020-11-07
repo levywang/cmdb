@@ -3,17 +3,12 @@
 尽可能实现比较通用的运维资源的配置和管理
 </div>
 
-- 在线预览: [CMDB](http://121.42.12.46:8000)
+- 在线预览: [CMDB](http://139.196.154.46:8000/)
     - username: demo
     - password: 123456
     
 Overview
 ----
-### 相关文档
-- [设计文档](https://zhuanlan.zhihu.com/p/98453732)
-- [API文档](https://github.com/pycook/cmdb/tree/master/docs)
-- [树形视图实践](https://mp.weixin.qq.com/s/EflmmJ-qdUkddTx2hRt3pA)
-
 ### 3种类型视图
 1. 资源视图 - 模型的实例数据, 用户可订阅
 2. 树形视图 - 模型按字段分级, 用树形图方式展示, 用户可订阅
